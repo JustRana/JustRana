@@ -4,5 +4,5 @@
 - 🎒 I’m currently Student at Taibah University 
 - 👩🏻‍💻 My major: CS
 - 🦾 I'm looking forward to learning artificial intelligence(AI)
-- 💬 Ask me about UML Diagram ,UI/UX ,Flutter language, Java language 
+- 💬 Ask me about UML Diagram ,UI/UX ,Flutter , Java language 
 - 👩🏻 Pronouns: She/her
