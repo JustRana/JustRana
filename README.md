@@ -14,9 +14,10 @@ I'm a Computer Science graduate interested in data and AI. I'm currently explori
 
 ### 🎓 Certifications
 
+- Future AWS AI Programmer Nanodegree — Udacity
 - Data Engineering Bootcamp — Saudi Digital Academy
 - Deep Learning using PyTorch — Tuwaiq Academy
-- AI Programming with Python — Udacity
+- AI Programming with Python Nanodegree — Udacity
 - AI-900: Azure AI Fundamentals — Microsoft
 - Introduction to Data Science in Python — University of Michigan
 
