@@ -1,15 +1,29 @@
-### Hi there ✨☁️
+# Hi, I'm Rana Alharbi 👋🏻
 
-![5904295502227295140_121](https://github.com/user-attachments/assets/79c88376-32bc-4581-b988-66bf50d8b566)
+### Computer Science Graduate | Data Analytics • Data Engineering • Machine Learning
 
-🎓 CS Student at Taibah University
+I'm a Computer Science graduate exploring the world of data and AI, with an interest in turning raw data into meaningful insights and building practical solutions. Always learning, experimenting, and growing through hands-on projects.
 
-💡 Passionate about UI/UX Design, Mobile App Development using Flutter, and Software Testing
+### 🛠️ Technologies & Tools
 
-✨ I enjoy turning ideas into clean, user-friendly interfaces and writing code that actually works
+- **Programming:** Python, SQL, Dart, Java
+- **Data Analytics:** Pandas, NumPy, Power BI
+- **Data Engineering:** Apache Airflow, dbt, DuckDB, BigQuery
+- **Machine Learning:** PyTorch, Transformers, NLP
+- **Tools:** Git, GitHub, Docker
 
-🧠 Currently diving into the world of Artificial Intelligence
+### 🎓 Certifications
 
-🎯 Always curious, always learning!
+- Data Engineering Bootcamp — Saudi Digital Academy
+- Deep Learning using PyTorch — Tuwaiq Academy
+- AI Programming with Python Nanodegree — Udacity
+- AI-900: Azure AI Fundamentals — Microsoft
+- Introduction to Data Science in Python — University of Michigan
 
-👩🏻 Pronouns: She/Her
+### 🤝 Connect with Me
+
+[LinkedIn](https://linkedin.com/in/rana-khaled-alharbi-) · [Email](mailto:rana1khaled0@gmail.com)
+
+---
+
+*Curious by nature, always learning and building. ✨*
