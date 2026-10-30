@@ -1,7 +1,7 @@
-# HERE WE GO
+# Here We Go 🌟
 
 ### Computer Science Graduate | Interested in Data Analytics, Data Engineering & AI/ML 
-I'm currently exploring different areas, learning new technologies, and building projects to improve my skills and discover what I enjoy most.
+I'm currently exploring different areas, learning new technologies, and building projects to improve my skills and discover what I enjoy most and that's it
 
 ### 🛠️ Technologies & Tools
 
@@ -20,9 +20,6 @@ I'm currently exploring different areas, learning new technologies, and building
 - AI-900: Azure AI Fundamentals — Microsoft
 - Introduction to Data Science in Python — University of Michigan
 
-### 🤝 Let's Connect
-
-[LinkedIn](https://linkedin.com/in/rana-khaled-alharbi-) · [Email](mailto:rana1khaled0@gmail.com)
 
 ---
 
