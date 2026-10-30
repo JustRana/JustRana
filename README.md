@@ -1,4 +1,4 @@
-# Hi, I'm Rana 👋🏻
+# HERE WE GO
 
 ### Computer Science Graduate | Interested in Data Analytics, Data Engineering & AI/ML 
 I'm currently exploring different areas, learning new technologies, and building projects to improve my skills and discover what I enjoy most.
@@ -26,4 +26,4 @@ I'm currently exploring different areas, learning new technologies, and building
 
 ---
 
-*Always learning, trying new things, and figuring things out along the way. ✨*
+*Always learning, trying new things, and figuring things out along the way ✨*
