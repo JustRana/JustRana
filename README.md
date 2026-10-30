@@ -1,4 +1,4 @@
-# Here We Go 🌟
+# Here We Go 
 
 ### Computer Science Graduate | Interested in Data Analytics, Data Engineering & AI/ML 
 I'm currently exploring different areas, learning new technologies, and building projects to improve my skills and discover what I enjoy most and that's it
